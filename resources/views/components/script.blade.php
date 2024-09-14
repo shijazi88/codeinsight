@@ -1,0 +1,9 @@
+    <script src="{{ asset('assets/js/vendor/jquery.min.js') }}" defer></script>
+    <script src="{{ asset('assets/js/vendor/metismenu.js') }}" defer></script>
+    <script src="{{ asset('assets/js/vendor/imagesloaded.pkgd.min.js') }}" defer></script>
+    <script src="{{ asset('assets/js/vendor/isotope.pkgd.min.js') }}" defer></script>
+    <script src="{{ asset('assets/js/vendor/magnific-popup.js') }}" defer></script>
+    <script src="{{ asset('assets/js/plugins/bootstrap.min.js') }}" defer></script>
+    <script src="{{ asset('assets/js/plugins/swiper.js') }}" defer></script>
+    <script src="{{ asset('assets/js/plugins/contact.form.js') }}" defer></script>
+    <script src="{{ asset('assets/js/main.js') }}" defer></script>
