@@ -1,14 +1,13 @@
 @extends('layout.layout1')
 
 @php
-    $headtitle='OpenUp HTML Template';
-    $bodyClass='inner-page';
+    $headtitle = 'CodeInsights';
+    $bodyClass = 'inner-page';
     $title = 'Pricing Plan 3';
     $subtitle = 'Pricing Plan 3';
 @endphp
 
 @section('content')
-
     <!-- ..:: pricing area start ::.. -->
     <div class="rts-pricing-area rts-section-gapTop">
         <div class="container">
@@ -25,10 +24,12 @@
             <!-- ..:: nav area start ::.. -->
             <ul class="nav mt--20 nav-tabs pricing-button-one" id="myTab" role="tablist">
                 <li class="nav-item" role="presentation">
-                    <button class=" active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="true">Monthly</button>
+                    <button class=" active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button"
+                        role="tab" aria-controls="home" aria-selected="true">Monthly</button>
                 </li>
                 <li class="nav-item" role="presentation">
-                    <button class="" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button" role="tab" aria-controls="profile" aria-selected="false">Annual</button>
+                    <button class="" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile" type="button"
+                        role="tab" aria-controls="profile" aria-selected="false">Annual</button>
                 </li>
                 <li class="right-image-inner">
                     <img src="{{ asset('assets/images/cta/03.png') }}" alt="cta-wrapper">
@@ -396,7 +397,8 @@
                             We have Answers!
                         </h2>
                         <p class="disc">
-                            please feel free to reach out to us. We are always happy to assist you and provide any additional.
+                            please feel free to reach out to us. We are always happy to assist you and provide any
+                            additional.
                         </p>
                     </div>
                 </div>
@@ -407,61 +409,84 @@
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         What is openup content writing tool?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         what languages does it supports?
                                     </button>
                                 </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
                                         What is sEO wirting ai and how do i use it?
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
                                         what languages does it supports?
                                     </button>
                                 </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
                                         Does Openup to write long articles?
                                     </button>
                                 </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
@@ -472,5 +497,4 @@
         </div>
     </div>
     <!-- ..:: rts faq area end ::.. -->
-
 @endsection
