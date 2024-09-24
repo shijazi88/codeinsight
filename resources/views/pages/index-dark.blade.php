@@ -16,7 +16,7 @@
                 <div class="col-lg-12">
                     <div class="content-main-wrapper">
                         <h1 class="title">
-                            OpenUp AI content
+                            CodeInsights AI content
                             Make <br> You
                             <span class="txt-rotate" data-period="1000"
                                 data-rotate='[ "Content.", "Blog Content.", "Sales Copy.", "Media Content."]'>
@@ -27,11 +27,11 @@
                             word articles automatically. From product descriptions.
                         </p>
                         <div class="button-area">
-                            <a href="log-in" class="rts-btn btn-primary">Try OpenUp Free</a>
+                            <a href="log-in" class="rts-btn btn-primary">Try CodeInsights Free</a>
                             <a href="contact class="rts-btn btn-blur">Request demo</a>
                         </div>
                         <div class="user-area">
-                            <p>10,000+ People make by OpenUp</p>
+                            <p>10,000+ People make by CodeInsights</p>
                             <div class="image-wrapper">
                                 <img class="one" src="{{ asset('assets/images/banner/user/01.png') }}" alt="user"
                                     loading="lazy">
@@ -78,7 +78,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="brand-title text-center">professionals & teams choose Openup</p>
+                    <p class="brand-title text-center">professionals & teams choose CodeInsights</p>
                 </div>
             </div>
             <div class="row mt--50">
@@ -116,7 +116,7 @@
             </div>
             <div class="row mt--50">
                 <div class="col-lg-12">
-                    <!-- ..:: single openup feature area start ::.. -->
+                    <!-- ..:: single CodeInsights feature area start ::.. -->
                     <div class="single-feature-area-start index-feature">
                         <div class="image-area">
                             <img src="{{ asset('assets/images/feature/07.svg') }}" alt="feature_image" loading="lazy">
@@ -132,8 +132,8 @@
                             <a href="contact class="rts-btn btn-primary">Get Started Free</a>
                         </div>
                     </div>
-                    <!-- ..:: single openup feature area end ::.. -->
-                    <!-- ..:: single openup feature area start ::.. -->
+                    <!-- ..:: single CodeInsights feature area end ::.. -->
+                    <!-- ..:: single CodeInsights feature area start ::.. -->
                     <div class="single-feature-area-start index-feature bg-red-l">
 
                         <div class="featue-content-area">
@@ -152,8 +152,8 @@
                                 loading="lazy">
                         </div>
                     </div>
-                    <!-- ..:: single openup feature area end ::.. -->
-                    <!-- ..:: single openup feature area start ::.. -->
+                    <!-- ..:: single CodeInsights feature area end ::.. -->
+                    <!-- ..:: single CodeInsights feature area start ::.. -->
                     <div class="single-feature-area-start index-feature bg-blue-l">
                         <div class="image-area">
                             <img src="{{ asset('assets/images/feature/09.svg') }}" alt="feature_image"
@@ -170,7 +170,7 @@
                             <a href="contact class="rts-btn btn-primary">Get Started Free</a>
                         </div>
                     </div>
-                    <!-- ..:: single openup feature area end ::.. -->
+                    <!-- ..:: single CodeInsights feature area end ::.. -->
                 </div>
             </div>
         </div>
@@ -736,7 +736,7 @@
                 <div class="col-lg-12">
                     <div class="title-conter-area">
                         <h2 class="title">
-                            Questions About our OpenUp? <br>
+                            Questions About our CodeInsights? <br>
                             We have Answers!
                         </h2>
                         <p class="disc">
@@ -755,7 +755,7 @@
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true"
                                         aria-controls="collapseOne">
-                                        What is openup content writing tool?
+                                        What is CodeInsights content writing tool?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
@@ -823,7 +823,7 @@
                                     <button class="accordion-button collapsed" type="button"
                                         data-bs-toggle="collapse" data-bs-target="#collapseFive"
                                         aria-expanded="false" aria-controls="collapseFive">
-                                        Does Openup to write long articles?
+                                        Does CodeInsights to write long articles?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse"
@@ -863,7 +863,7 @@
                             </div>
                             <div class="body">
                                 <p class="dsic">
-                                    Openup is an artificial intelligence trained to automate important tasks such
+                                    CodeInsights is an artificial intelligence trained to automate important tasks such
                                     writing optimized product descriptions.
                                 </p>
                                 <div class="social-style-two">

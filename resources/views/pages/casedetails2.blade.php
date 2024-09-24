@@ -1,26 +1,26 @@
 @extends('layout.layout1')
 
 @php
-    $headtitle='Case Details 2';
-    $bodyClass='inner-page case-details-2';
+    $headtitle = 'Case Details 2';
+    $bodyClass = 'inner-page case-details-2';
     $title = 'Use Case Details 2';
     $subtitle = 'Use Case Details 2';
 @endphp
 
 @section('content')
-
     <div class="caase-details-area-start rts-section-gap">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-conter-area top-tt">
-                        <span class="pre-title-bg">OpenUp Use cases</span>
+                        <span class="pre-title-bg">CodeInsights Use cases</span>
                         <h2 class="title">
                             Generate Blog, Article or <br>
                             Essay Ideas in One Click
                         </h2>
                         <p class="disc">
-                            The easiest way to come up with catchy blog, essay, and article topics and content structures using AI writing assistant.
+                            The easiest way to come up with catchy blog, essay, and article topics and content structures
+                            using AI writing assistant.
                         </p>
                         <a href="#" class="rts-btn btn-primary">Start Writing</a>
                     </div>
@@ -60,14 +60,15 @@
                             writing generate copy
                         </h2>
                         <p class="disc">
-                            Let our AI assist with most time consuming to write blog articles, product descriptions and more.
+                            Let our AI assist with most time consuming to write blog articles, product descriptions and
+                            more.
                         </p>
                     </div>
                 </div>
             </div>
             <div class="row mt--50">
                 <div class="col-lg-12">
-                    <!-- ..:: single openup feature area start ::.. -->
+                    <!-- ..:: single CodeInsights feature area start ::.. -->
                     <div class="single-feature-area-start">
                         <div class="image-area">
                             <img src="{{ asset('assets/images/feature/01.png') }}" alt="feature_image">
@@ -77,14 +78,15 @@
                             <h2 class="title">Generate copy in <br>
                                 seconds</h2>
                             <p class="disc">
-                                Generate many types of content in under 30 seconds by simply inserting a few input fields. Generate blog topic ideas, intros, ad copy, copywriting.
+                                Generate many types of content in under 30 seconds by simply inserting a few input fields.
+                                Generate blog topic ideas, intros, ad copy, copywriting.
                             </p>
                             <a href="#" class="rts-btn btn-primary">Get Started Free</a>
                         </div>
                     </div>
-                    <!-- ..:: single openup feature area end ::.. -->
+                    <!-- ..:: single CodeInsights feature area end ::.. -->
 
-                    <!-- ..:: single openup feature area start ::.. -->
+                    <!-- ..:: single CodeInsights feature area start ::.. -->
                     <div class="single-feature-area-start bg-red-l">
 
                         <div class="featue-content-area">
@@ -101,9 +103,9 @@
                             <img src="{{ asset('assets/images/feature/02.png') }}" alt="feature_image">
                         </div>
                     </div>
-                    <!-- ..:: single openup feature area end ::.. -->
+                    <!-- ..:: single CodeInsights feature area end ::.. -->
 
-                    <!-- ..:: single openup feature area start ::.. -->
+                    <!-- ..:: single CodeInsights feature area start ::.. -->
                     <div class="single-feature-area-start bg-blue-l">
                         <div class="image-area">
                             <img src="{{ asset('assets/images/feature/03.png') }}" alt="feature_image">
@@ -113,12 +115,13 @@
                             <h2 class="title">Enter your <br>
                                 copywriting project</h2>
                             <p class="disc">
-                                Choose from emails, social posts, long-form blog posts, and more! Then, just copy and paste the work into your CMS for publishing.
+                                Choose from emails, social posts, long-form blog posts, and more! Then, just copy and paste
+                                the work into your CMS for publishing.
                             </p>
                             <a href="#" class="rts-btn btn-primary">Get Started Free</a>
                         </div>
                     </div>
-                    <!-- ..:: single openup feature area end ::.. -->
+                    <!-- ..:: single CodeInsights feature area end ::.. -->
                 </div>
             </div>
         </div>
@@ -132,7 +135,7 @@
                 <div class="col-lg-12">
                     <div class="title-conter-area">
                         <h2 class="title">
-                            OpenUP Received 4.8/5 Stars in Over <br>
+                            CodeInsights Received 4.8/5 Stars in Over <br>
                             10,000+ Reviews.
                         </h2>
                         <p class="disc">
@@ -175,7 +178,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -198,7 +202,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -221,7 +226,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -244,7 +250,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -276,7 +283,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -299,7 +307,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -322,7 +331,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -345,7 +355,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -380,7 +391,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -404,7 +416,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -428,7 +441,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -451,7 +465,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -483,7 +498,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -507,7 +523,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -530,7 +547,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -553,7 +571,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -585,7 +604,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -608,7 +628,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -632,11 +653,12 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
-                                 
+
                                 <!-- ..:: ingle testimonials area ::.. -->
                                 <div class="single-testimonials-marquree">
                                     <div class="top">
@@ -656,7 +678,8 @@
                                         </div>
                                     </div>
                                     <div class="body">
-                                        <p>So glad i found openup!! It has made my blog <br> tasks a billion times more enjoyable (which is <br> an emotion way beyond.</p>
+                                        <p>So glad i found CodeInsights!! It has made my blog <br> tasks a billion times
+                                            more enjoyable (which is <br> an emotion way beyond.</p>
                                     </div>
                                 </div>
                                 <!-- ..:: ingle testimonials area end ::.. -->
@@ -680,7 +703,8 @@
                             Questions About our GenAI? <br>We have Answers!
                         </h2>
                         <p class="disc">
-                            please feel free to reach out to us. We are always happy to assist you and provide any additional.
+                            please feel free to reach out to us. We are always happy to assist you and provide any
+                            additional.
                         </p>
                     </div>
                 </div>
@@ -691,61 +715,84 @@
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is openup content writing tool?
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        What is CodeInsights content writing tool?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div id="collapseOne" class="accordion-collapse collapse show"
+                                    aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         what languages does it supports?
                                     </button>
                                 </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
                                         What is sEO wirting ai and how do i use it?
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div id="collapseThree" class="accordion-collapse collapse"
+                                    aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
                                         what languages does it supports?
                                     </button>
                                 </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Does Openup to write long articles?
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        Does CodeInsights to write long articles?
                                     </button>
                                 </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
@@ -756,5 +803,4 @@
         </div>
     </div>
     <!-- ..:: rts faq area end ::.. -->
-
 @endsection

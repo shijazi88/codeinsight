@@ -1,14 +1,13 @@
 @extends('layout.layout1')
 
 @php
-    $headtitle='Contact Us';
-    $bodyClass='inner-page';
+    $headtitle = 'Contact Us';
+    $bodyClass = 'inner-page';
     $title = 'Contact Us';
     $subtitle = 'Contact Us';
 @endphp
 
 @section('content')
-
     <!-- ..:: rts contact form are start ::.. -->
     <div class="rts-contact-form-area rts-section-gap">
         <div class="container">
@@ -28,7 +27,7 @@
                         <!-- ..:: ingle input start ::.. -->
                         <div class="single-input">
                             <label for="email">Your Email Address</label>
-                            <input id="email" name="email" type="email" placeholder="openup@info.com">
+                            <input id="email" name="email" type="email" placeholder="CodeInsights@info.com">
                             <i class="fa-light fa-envelope"></i>
                         </div>
                         <!-- ..:: single input end ::.. -->
@@ -45,7 +44,10 @@
                 </div>
                 <div class="col-lg-8 col-md-12">
                     <div class="map-area-start">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7302.196316307801!2d90.41794101531372!3d23.779518703573338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1684403774021!5m2!1sen!2sbd" height="520" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7302.196316307801!2d90.41794101531372!3d23.779518703573338!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sbd!4v1684403774021!5m2!1sen!2sbd"
+                            height="520" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
@@ -97,5 +99,4 @@
         </div>
     </div>
     <!-- ..:: contact single card area end ::.. -->
-
 @endsection

@@ -1,14 +1,13 @@
 @extends('layout.layout1')
 
 @php
-    $headtitle='About Us';
-    $bodyClass='inner-page';
-    $title = 'About OpenUP';
+    $headtitle = 'About Us';
+    $bodyClass = 'inner-page';
+    $title = 'About CodeInsights';
     $subtitle = 'About';
 @endphp
 
 @section('content')
-
     <!-- ..:: about section one ::.. -->
     <div class="about-section-one inner-about rts-section-gap">
         <div class="container">
@@ -77,9 +76,12 @@
                 <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                     <div class="single-case-area-wrapper">
                         <div class="icon">
-                            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <svg width="50" height="50" viewBox="0 0 50 50" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
                                 <rect width="50" height="50" rx="4" fill="#E6E5FF"></rect>
-                                <path d="M22.7148 15.4336C28.75 15.7852 33.9648 21 34.3164 26.9766C34.375 27.7383 33.7891 28.4414 33.0273 28.5C32.9688 28.5 32.9688 28.5 32.9102 28.5C32.207 28.5 31.5625 27.9141 31.5625 27.1523C31.2109 22.5234 27.168 18.4805 22.5391 18.1875C21.7773 18.1875 21.1914 17.4844 21.25 16.7227C21.25 15.9609 21.9531 15.375 22.7148 15.4336ZM23.125 9.75C32.3828 9.75 40 17.3672 40 26.625C40 27.6797 39.1211 28.5 38.125 28.5C37.0703 28.5 36.25 27.6797 36.25 26.625C36.25 19.418 30.332 13.5 23.125 13.5C22.0703 13.5 21.25 12.6797 21.25 11.625C21.25 10.6289 22.0703 9.75 23.125 9.75ZM20.0781 23.0508C24.4727 23.9297 27.6953 28.3242 26.6406 33.1289C25.9961 36.293 23.418 38.8711 20.2539 39.5156C14.8047 40.6875 10 36.5273 10 31.3125V16.7812C10 16.0195 10.5859 15.4336 11.3477 15.4336H14.1602C14.9805 15.4336 15.5664 16.0195 15.5664 16.7812V31.2539C15.5664 32.7188 16.8555 34.0078 18.4375 34.0078C19.9609 34.0078 21.25 32.7773 21.25 31.2539C21.25 30.082 20.4297 29.0273 19.375 28.6758C18.8477 28.5 18.4375 28.0312 18.4375 27.3867V24.457C18.4375 23.5781 19.1992 22.875 20.0781 23.0508Z" fill="#3F3EED"></path>
+                                <path
+                                    d="M22.7148 15.4336C28.75 15.7852 33.9648 21 34.3164 26.9766C34.375 27.7383 33.7891 28.4414 33.0273 28.5C32.9688 28.5 32.9688 28.5 32.9102 28.5C32.207 28.5 31.5625 27.9141 31.5625 27.1523C31.2109 22.5234 27.168 18.4805 22.5391 18.1875C21.7773 18.1875 21.1914 17.4844 21.25 16.7227C21.25 15.9609 21.9531 15.375 22.7148 15.4336ZM23.125 9.75C32.3828 9.75 40 17.3672 40 26.625C40 27.6797 39.1211 28.5 38.125 28.5C37.0703 28.5 36.25 27.6797 36.25 26.625C36.25 19.418 30.332 13.5 23.125 13.5C22.0703 13.5 21.25 12.6797 21.25 11.625C21.25 10.6289 22.0703 9.75 23.125 9.75ZM20.0781 23.0508C24.4727 23.9297 27.6953 28.3242 26.6406 33.1289C25.9961 36.293 23.418 38.8711 20.2539 39.5156C14.8047 40.6875 10 36.5273 10 31.3125V16.7812C10 16.0195 10.5859 15.4336 11.3477 15.4336H14.1602C14.9805 15.4336 15.5664 16.0195 15.5664 16.7812V31.2539C15.5664 32.7188 16.8555 34.0078 18.4375 34.0078C19.9609 34.0078 21.25 32.7773 21.25 31.2539C21.25 30.082 20.4297 29.0273 19.375 28.6758C18.8477 28.5 18.4375 28.0312 18.4375 27.3867V24.457C18.4375 23.5781 19.1992 22.875 20.0781 23.0508Z"
+                                    fill="#3F3EED"></path>
                             </svg>
                         </div>
                         <a href="#">
@@ -95,9 +97,12 @@
                     <div class="single-case-area-wrapper">
                         <div class="icon">
 
-                            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <svg width="50" height="50" viewBox="0 0 50 50" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
                                 <rect width="50" height="50" rx="4" fill="#FDEDE1"></rect>
-                                <path d="M13.8125 11.625H22.543C23.5391 11.625 24.4766 12.0352 25.1797 12.7383L35.4922 23.0508C36.957 24.5156 36.957 26.918 35.4922 28.3828L27.6992 36.1758C26.2344 37.6406 23.832 37.6406 22.3672 36.1758L12.0547 25.8633C11.3516 25.1602 11 24.2227 11 23.2266V14.4375C11 12.9141 12.2305 11.625 13.8125 11.625ZM17.5625 20.0625C18.5586 20.0625 19.4375 19.2422 19.4375 18.1875C19.4375 17.1914 18.5586 16.3125 17.5625 16.3125C16.5078 16.3125 15.6875 17.1914 15.6875 18.1875C15.6875 19.2422 16.5078 20.0625 17.5625 20.0625Z" fill="#EBA43B"></path>
+                                <path
+                                    d="M13.8125 11.625H22.543C23.5391 11.625 24.4766 12.0352 25.1797 12.7383L35.4922 23.0508C36.957 24.5156 36.957 26.918 35.4922 28.3828L27.6992 36.1758C26.2344 37.6406 23.832 37.6406 22.3672 36.1758L12.0547 25.8633C11.3516 25.1602 11 24.2227 11 23.2266V14.4375C11 12.9141 12.2305 11.625 13.8125 11.625ZM17.5625 20.0625C18.5586 20.0625 19.4375 19.2422 19.4375 18.1875C19.4375 17.1914 18.5586 16.3125 17.5625 16.3125C16.5078 16.3125 15.6875 17.1914 15.6875 18.1875C15.6875 19.2422 16.5078 20.0625 17.5625 20.0625Z"
+                                    fill="#EBA43B"></path>
                             </svg>
 
                         </div>
@@ -114,9 +119,12 @@
                     <div class="single-case-area-wrapper">
                         <div class="icon">
 
-                            <svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <svg width="50" height="50" viewBox="0 0 50 50" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
                                 <rect width="50" height="50" rx="4" fill="#FFE6FE"></rect>
-                                <path d="M10 15.375C10 13.3242 11.6406 11.625 13.75 11.625H36.25C38.3008 11.625 40 13.3242 40 15.375V34.125C40 36.2344 38.3008 37.875 36.25 37.875H13.75C11.6406 37.875 10 36.2344 10 34.125V15.375ZM15.625 19.125C16.6211 19.125 17.5 18.3047 17.5 17.25C17.5 16.2539 16.6211 15.375 15.625 15.375C14.5703 15.375 13.75 16.2539 13.75 17.25C13.75 18.3047 14.5703 19.125 15.625 19.125ZM36.25 17.25C36.25 16.4883 35.6055 15.8438 34.8438 15.8438H20.7812C19.9609 15.8438 19.375 16.4883 19.375 17.25C19.375 18.0703 19.9609 18.6562 20.7812 18.6562H34.8438C35.6055 18.6562 36.25 18.0703 36.25 17.25Z" fill="#E331D2"></path>
+                                <path
+                                    d="M10 15.375C10 13.3242 11.6406 11.625 13.75 11.625H36.25C38.3008 11.625 40 13.3242 40 15.375V34.125C40 36.2344 38.3008 37.875 36.25 37.875H13.75C11.6406 37.875 10 36.2344 10 34.125V15.375ZM15.625 19.125C16.6211 19.125 17.5 18.3047 17.5 17.25C17.5 16.2539 16.6211 15.375 15.625 15.375C14.5703 15.375 13.75 16.2539 13.75 17.25C13.75 18.3047 14.5703 19.125 15.625 19.125ZM36.25 17.25C36.25 16.4883 35.6055 15.8438 34.8438 15.8438H20.7812C19.9609 15.8438 19.375 16.4883 19.375 17.25C19.375 18.0703 19.9609 18.6562 20.7812 18.6562H34.8438C35.6055 18.6562 36.25 18.0703 36.25 17.25Z"
+                                    fill="#E331D2"></path>
                             </svg>
 
                         </div>
@@ -156,7 +164,7 @@
                     <div class="title-conter-area">
                         <span class="pre-title-bg">Team</span>
                         <h2 class="title">
-                            OpenUp Dedicated Team
+                            CodeInsights Dedicated Team
                         </h2>
                     </div>
                 </div>
@@ -365,7 +373,8 @@
                             <i class="fa-solid fa-star-half-stroke"></i>
                         </div>
                         <p class="disc">
-                            I have used some AI writing tools liked Rytr, Peppertype, and Jasper but I found Writesonic to be the best for writing complete blog posts.
+                            I have used some AI writing tools liked Rytr, Peppertype, and Jasper but I found Writesonic to
+                            be the best for writing complete blog posts.
                         </p>
                         <div class="authore-area">
                             <div class="author">
@@ -392,7 +401,8 @@
                             <i class="fa-solid fa-star-half-stroke"></i>
                         </div>
                         <p class="disc">
-                            I have used some AI writing tools liked Rytr, Peppertype, and Jasper but I found Writesonic to be the best for writing complete blog posts.
+                            I have used some AI writing tools liked Rytr, Peppertype, and Jasper but I found Writesonic to
+                            be the best for writing complete blog posts.
                         </p>
                         <div class="authore-area">
                             <div class="author">
@@ -419,7 +429,8 @@
                             <i class="fa-solid fa-star-half-stroke"></i>
                         </div>
                         <p class="disc">
-                            I have used some AI writing tools liked Rytr, Peppertype, and Jasper but I found Writesonic to be the best for writing complete blog posts.
+                            I have used some AI writing tools liked Rytr, Peppertype, and Jasper but I found Writesonic to
+                            be the best for writing complete blog posts.
                         </p>
                         <div class="authore-area">
                             <div class="author">
@@ -438,5 +449,4 @@
         </div>
     </div>
     <!-- ..:: rts testimonials area emd ::.. -->
-
 @endsection

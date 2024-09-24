@@ -1,21 +1,20 @@
 @extends('layout.layout1')
 
 @php
-    $headtitle='Use Case Details';
-    $bodyClass='inner-page';
+    $headtitle = 'Use Case Details';
+    $bodyClass = 'inner-page';
     $title = 'Use Case Details';
     $subtitle = 'Use Case';
 @endphp
 
 @section('content')
-
     <!-- ..:: rts use case detaila area start ::.. -->
     <div class="use-case-details-area rts-section-gapTop">
         <div class="container section-seperatorBottom rts-section-gapBottom">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="title-left-area">
-                        <span class="pre-title-bg">OpenUp Use cases</span>
+                        <span class="pre-title-bg">CodeInsights Use cases</span>
                         <h2 class="title">
                             Generate Blog, Article or <br>
                             Essay Ideas and Outlines <br>
@@ -25,7 +24,8 @@
                             The easiest way to come up with catchy blog, essay, and article topics <br>
                             and content structures using AI writing assistant.
                         </p>
-                        <a href="#" class="rts-btn btn-primary">Start Writing <i class="fa-regular fa-arrow-right"></i></a>
+                        <a href="#" class="rts-btn btn-primary">Start Writing <i
+                                class="fa-regular fa-arrow-right"></i></a>
                     </div>
                 </div>
                 <div class="col-lg-6 mt_md--50 mt_sm--50">
@@ -49,7 +49,11 @@
                             using AI content writing tools
                         </h2>
                         <p class="disc">
-                            Utilize an AI content writing tool to generate initial paragraphs or sections based on the selected topic and subheadings. Provide any specific instructions or guidelines to the AI tool to align the content with your desired tone and style. Write an engaging introduction that introduces the topic, captures the reader's interest, and provides context for the rest of the blog post.
+                            Utilize an AI content writing tool to generate initial paragraphs or sections based on the
+                            selected topic and subheadings. Provide any specific instructions or guidelines to the AI tool
+                            to align the content with your desired tone and style. Write an engaging introduction that
+                            introduces the topic, captures the reader's interest, and provides context for the rest of the
+                            blog post.
                         </p>
                     </div>
                     <!-- ..:: ingle stepa wrapper start ::.. -->
@@ -106,7 +110,8 @@
                             Questions About our GenAI? <br>We have Answers!
                         </h2>
                         <p class="disc">
-                            please feel free to reach out to us. We are always happy to assist you and provide any additional.
+                            please feel free to reach out to us. We are always happy to assist you and provide any
+                            additional.
                         </p>
                     </div>
                 </div>
@@ -117,61 +122,83 @@
                         <div class="accordion" id="accordionExample">
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
-                                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is openup content writing tool?
+                                    <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        What is CodeInsights content writing tool?
                                     </button>
                                 </h2>
-                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingTwo">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                         what languages does it supports?
                                     </button>
                                 </h2>
-                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingThree">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                         What is sEO wirting ai and how do i use it?
                                     </button>
                                 </h2>
-                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFour">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFour" aria-expanded="false"
+                                        aria-controls="collapseFour">
                                         what languages does it supports?
                                     </button>
                                 </h2>
-                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#accordionExample">
+                                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingFive">
-                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                        Does Openup to write long articles?
+                                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                        data-bs-target="#collapseFive" aria-expanded="false"
+                                        aria-controls="collapseFive">
+                                        Does CodeInsights to write long articles?
                                     </button>
                                 </h2>
-                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
+                                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                                    data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Once you know your audience, choose a topic that will resonate with them. Look for trending topics in your industry or address common questions or challenges your audience may be facing.
+                                        Once you know your audience, choose a topic that will resonate with them. Look for
+                                        trending topics in your industry or address common questions or challenges your
+                                        audience may be facing.
                                     </div>
                                 </div>
                             </div>
@@ -181,5 +208,4 @@
             </div>
         </div>
     </div>
-
 @endsection

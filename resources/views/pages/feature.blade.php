@@ -14,7 +14,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="title-conter-area">
-                        <span class="pre-title-bg">OpenUp Use cases</span>
+                        <span class="pre-title-bg">CodeInsights Use cases</span>
                         <h2 class="title">
                             Generate AI Copy writing <br>
                             Favorite Tools

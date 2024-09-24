@@ -43,8 +43,8 @@
                                                                     <img src="{{ asset('assets/images/mega-menu/01.svg') }}"
                                                                         alt="icon">
                                                                     <div class="info">
-                                                                        <p>About OpenUp</p>
-                                                                        <span>Get know about openup </span>
+                                                                        <p>About CodeInsights</p>
+                                                                        <span>Get know about CodeInsights </span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -64,7 +64,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -88,7 +88,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Blog</p>
-                                                                        <span>Read openup artical</span>
+                                                                        <span>Read CodeInsights artical</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -108,7 +108,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing 2</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -132,7 +132,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Blog Details</p>
-                                                                        <span>Read openup artical</span>
+                                                                        <span>Read CodeInsights artical</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -152,7 +152,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing 3</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -176,7 +176,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Contact</p>
-                                                                        <span>Contact with openup</span>
+                                                                        <span>Contact with CodeInsights</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -196,7 +196,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>FAQ</p>
-                                                                        <span>Do you know openup</span>
+                                                                        <span>Do you know CodeInsights</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -400,11 +400,12 @@
                             Unleash Your Creativity with Stunning Visuals
                         </h1>
                         <p class="disc">
-                            Welcome to Openup Stock Image your ultimate source for high-quality, royalty-Premium images.
+                            Welcome to CodeInsights Stock Image your ultimate source for high-quality, royalty-Premium
+                            images.
                         </p>
                         <form action="#">
                             <div class="input-area-fill">
-                                <input type="text" placeholder="Search for all image on openup" required>
+                                <input type="text" placeholder="Search for all image on CodeInsights" required>
                                 <button> Search</button>
                             </div>
                         </form>
@@ -1228,7 +1229,8 @@
                             </div>
                             <div class="body">
                                 <p class="dsic">
-                                    Openup is an artificial intelligence trained to automate important tasks such writing
+                                    CodeInsights is an artificial intelligence trained to automate important tasks such
+                                    writing
                                     optimized product descriptions.
                                 </p>
                                 <div class="social-style-two">

@@ -69,8 +69,8 @@
                                                                     <img src="{{ asset('assets/images/mega-menu/01.svg') }}"
                                                                         alt="icon">
                                                                     <div class="info">
-                                                                        <p>About OpenUp</p>
-                                                                        <span>Get know about openup </span>
+                                                                        <p>About CodeInsights</p>
+                                                                        <span>Get know about CodeInsights </span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -90,7 +90,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -114,7 +114,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Blog</p>
-                                                                        <span>Read openup artical</span>
+                                                                        <span>Read CodeInsights artical</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -134,7 +134,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing 2</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -158,7 +158,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Blog Details</p>
-                                                                        <span>Read openup artical</span>
+                                                                        <span>Read CodeInsights artical</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -178,7 +178,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing 3</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -202,7 +202,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Contact</p>
-                                                                        <span>Contact with openup</span>
+                                                                        <span>Contact with CodeInsights</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -222,7 +222,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>FAQ</p>
-                                                                        <span>Do you know openup</span>
+                                                                        <span>Do you know CodeInsights</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -282,7 +282,7 @@
             <div class="row">
                 <div class="col-lg-7">
                     <div class="banner-two-inner-content pb--180 pb_md--180 pb_sm--100 pt--200 pt_md--100 pt_sm--20">
-                        <span class="pre-title">Welcome to Openup</span>
+                        <span class="pre-title">Welcome to CodeInsights</span>
                         <h1 class="title">
                             Best AI Writer for <br>
                             Creating <span>Blog Articles.</span>
@@ -435,7 +435,7 @@
                         <span class="pre-title-bg">Features</span>
                         <h2 class="title">
                             What can you create <br>
-                            with Openup?
+                            with CodeInsights?
                         </h2>
                     </div>
                 </div>
@@ -739,7 +739,7 @@
     </div>
     <!-- ..:: use case area end ::.. -->
 
-    <!-- ..:: clients with openup ::.. -->
+    <!-- ..:: clients with CodeInsights ::.. -->
     <div class="rts-clients-area rts-section-gap bg-deam">
         <div class="container">
             <div class="row">
@@ -748,7 +748,7 @@
                         <span class="pre-title-bg">Our Clients</span>
                         <h2 class="title">
                             You're In Good Company <br>
-                            With Openup
+                            With CodeInsights
                         </h2>
                     </div>
                 </div>
@@ -844,7 +844,7 @@
             </div>
         </div>
     </div>
-    <!-- ..:: clients with openup end ::.. -->
+    <!-- ..:: clients with CodeInsights end ::.. -->
 
     <!-- ..:: rts blog area start ::.. -->
     <div class="rts-blog-area rts-section-gapTop">
@@ -1288,7 +1288,7 @@
                     <div class="title-conter-area">
                         <span class="pre-title-bg">Faq's</span>
                         <h2 class="title">
-                            Questions About our OpenUp? <br>
+                            Questions About our CodeInsights? <br>
                             We have Answers!
                         </h2>
                         <p class="disc">
@@ -1306,7 +1306,7 @@
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        What is openup content writing tool?
+                                        What is CodeInsights content writing tool?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show"
@@ -1373,7 +1373,7 @@
                                     <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                         data-bs-target="#collapseFive" aria-expanded="false"
                                         aria-controls="collapseFive">
-                                        Does Openup to write long articles?
+                                        Does CodeInsights to write long articles?
                                     </button>
                                 </h2>
                                 <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
@@ -1409,7 +1409,8 @@
                             </div>
                             <div class="body">
                                 <p class="dsic mb--25">
-                                    Openup is an artificial intelligence trained to automate important tasks such writing
+                                    CodeInsights is an artificial intelligence trained to automate important tasks such
+                                    writing
                                     optimized product descriptions.
                                 </p>
                                 <div class="social-area-one">

@@ -43,8 +43,8 @@
                                                                     <img src="{{ asset('assets/images/mega-menu/01.svg') }}"
                                                                         alt="icon">
                                                                     <div class="info">
-                                                                        <p>About OpenUp</p>
-                                                                        <span>Get know about openup </span>
+                                                                        <p>About CodeInsights</p>
+                                                                        <span>Get know about CodeInsights </span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -64,7 +64,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -88,7 +88,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Blog</p>
-                                                                        <span>Read openup artical</span>
+                                                                        <span>Read CodeInsights artical</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -108,7 +108,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing 2</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -132,7 +132,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Blog Details</p>
-                                                                        <span>Read openup artical</span>
+                                                                        <span>Read CodeInsights artical</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -152,7 +152,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Pricing 3</p>
-                                                                        <span>Openup provide pro price</span>
+                                                                        <span>CodeInsights provide pro price</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -176,7 +176,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>Contact</p>
-                                                                        <span>Contact with openup</span>
+                                                                        <span>Contact with CodeInsights</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -196,7 +196,7 @@
                                                                         alt="icon">
                                                                     <div class="info">
                                                                         <p>FAQ</p>
-                                                                        <span>Do you know openup</span>
+                                                                        <span>Do you know CodeInsights</span>
                                                                     </div>
                                                                 </a>
                                                             </li>
@@ -264,7 +264,8 @@
                             Artificial Intelligence
                         </h1>
                         <p class="disc">
-                            Convert words to images with OpenuP AI image generator. Watch your imagination transform into
+                            Convert words to images with CodeInsights AI image generator. Watch your imagination transform
+                            into
                             AI-generated images online.
                         </p>
                         <form action="#">
@@ -469,7 +470,8 @@
                     <div class="col-lg-6">
                         <div class="left-side-content">
                             <h2 class="title">Text-to-Image AI Generator troduction</h2>
-                            <p class="disc">Openup AI image generator from text brings your concept art to life online in
+                            <p class="disc">CodeInsights AI image generator from text brings your concept art to life
+                                online in
                                 just seconds. Text to image tool, allows you to take text prompts and turn them into
                                 matching images. Enter text prompts like " a Abstract image transform your creative ideas
                                 into stunning images with just a few clicks. </p>
@@ -1099,7 +1101,8 @@
                             </div>
                             <div class="body">
                                 <p class="dsic">
-                                    Openup is an artificial intelligence trained to automate important tasks such writing
+                                    CodeInsights is an artificial intelligence trained to automate important tasks such
+                                    writing
                                     optimized product descriptions.
                                 </p>
                                 <div class="social-style-two">
